@@ -1,16 +1,19 @@
-## Hi there 👋
+## # 👋 Hi, I'm Parth Ingale  
+M.S. in Bioengineering | Focus: Computational Biology, Bioinformatics, PK/PD Modeling
 
-<!--
-**ParthIngale02/ParthIngale02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 **What I'm Working On**  
+- Portfolio Projects in Pharmacokinetics & Bioinformatics  
+- Machine Learning for Biology  
+- GitHub-based Scientific Workflows  
 
-Here are some ideas to get you started:
+💡 **Projects**  
+- 💊 PK/PD Model: 1-compartment model with first-order elimination  
+- 🧠 Tumor classification using CNNs in Python  
+- 🧬 Gene toggle switch simulation with stochastic noise  
+- 🔎 Bioinformatics pipeline using Bioconductor  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/parth-ingale-516116212/) • [Email](ingale.p@northeastern.edu)
+
+
+
